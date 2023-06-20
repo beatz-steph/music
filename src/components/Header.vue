@@ -8,7 +8,7 @@
         :to="{ name: 'home' }"
         exact-active-class="no-active"
       >
-        Music
+        Kixk music
       </router-link>
 
       <div class="flex flex-grow items-center">
